@@ -14,7 +14,7 @@
     "bson": "^1.0.3",
     "express": "^4.14.0",
     "install": "^0.8.4",
-    "mongodb": "^2.2.17",
+    "mongodb": "^3.6.1",
     "mongoose": "^5.7.14"
   },
   "devDependencies": {
